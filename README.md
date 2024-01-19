@@ -11,3 +11,4 @@ Currently, two official plugins are available:
 # book-store-front
 # book-store-front
 # book-store-front
+# book-store-front
