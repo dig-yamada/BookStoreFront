@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # book-store-app
 # book-store-front
 # book-store-front
+# book-store-front
